@@ -28,4 +28,4 @@ Temporary Items
 # PyCharm stuff
 venv/
 __pycache__/
-
+.idea/
